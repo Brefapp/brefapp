@@ -2,7 +2,7 @@ const config = require(`../../.ghost.json`).production;
 module.exports = {
     siteUrl:
         process.env.NODE_ENV === `production`
-            ? process.env.SITE_URL || config.siteUrl || `https://www.brefapp.com`
+            ? process.env.SITE_URL || config.siteUrl || `https://brefapp.com`
             : `https://www.brefapp.com`, // Site domain. Do not include a trailing slash!
 
     postsPerPage: 34, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
