@@ -1,5 +1,5 @@
 # Netlify redirects file, edit with your domain
 # https://www.netlify.com/docs/redirects/
 
-https://cryptoserie.netlify.com/*      https://www.cryptoserie.com/:splat    301!
-http://cryptoserie.netlify.com/*       https://wwww.cryptoserie.com/:splat    301!
+https://brefapp.netlify.com/*      https://www.brefapp.com/:splat    301!
+http://brefapp.netlify.com/*       https://wwww.brefapp.com/:splat    301!
