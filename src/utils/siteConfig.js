@@ -5,9 +5,9 @@ module.exports = {
             ? process.env.SITE_URL || config.siteUrl || `https://brefapp.com`
             : `https://www.brefapp.com`, // Site domain. Do not include a trailing slash!
 
-    postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
+    postsPerPage: 34, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-    siteTitleMeta: ``, // This allows an alternative site title for meta data for pages.
+    siteTitleMeta: `Brefapp`, // This allows an alternative site title for meta data for pages.
     siteDescriptionMeta: `Résumés de livres pour les curieux qui aiment apprendre, les gens occupés qui n'ont pas le temps de lire.`, // This allows an alternative site description for meta data for pages.
 
     shareImageWidth: 1000, // Change to the width of your default share image
