@@ -32,7 +32,7 @@ try {
 
 if (
     process.env.NODE_ENV === `production` &&
-    config.siteUrl === `http://cryptoserie.com` &&
+    config.siteUrl === `https://brefapp.com` &&
     !process.env.SITEURL
 ) {
     throw new Error(
