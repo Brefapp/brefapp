@@ -1,6 +1,6 @@
 User-agent: *
-Sitemap: https://www.cryptoserie.com/sitemap.xml
-Sitemap: https://cryptoserie.com/sitemap.xml
+Sitemap: https://www.brefapp.com/sitemap.xml
+Sitemap: https://brefapp.com/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /author/
