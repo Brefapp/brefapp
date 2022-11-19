@@ -136,7 +136,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                 <footer className="site-foot">
                     <div className="site-foot-nav container">
                         <div className="site-foot-nav-left">
-                            <Link to="/">{site.title}</Link> © 2022 |
+                            <Link to="https://www.brefapp.com">Brefapp</Link> © 2022 |
                             <a
                                 className="site-foot-nav-item"
                                 href="https://www.akselinc.com"
